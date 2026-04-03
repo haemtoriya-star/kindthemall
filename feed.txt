@@ -1,2 +1,2 @@
 id	title	price_pc	link	image_link	category_name1	shipping
-12	더 착한 유릭손	38900	https://kindthemall.co.kr/shop_view/?idx=12	https://cdn.imweb.me/thumbnail/20260324/658ddeb6b5ef2.jpg	건강식품	2500
+12	더 착한 유릭손 통풍관리 특허성분 JP04	38900	https://kindthemall.co.kr/shop_view/?idx=12	https://cdn.imweb.me/thumbnail/20260324/658ddeb6b5ef2.jpg	건강식품	2500
