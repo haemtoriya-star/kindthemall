@@ -1,3 +1,3 @@
 id	title	price_pc	link	image_link	category_name1	shipping
 12	더 착한 유릭손 통풍관리 특허성분 JP04	41900	https://kindthemall.co.kr/shop_view/?idx=12	https://cdn-optimized.imweb.me/upload/S20260128d933726d91a17/bf159645e1bc1.jpg	건강식품	2500
-18	더 착한 이거필름	53900	https://kindthemall.co.kr/shop_view/?idx=18	https://cdn-optimized.imweb.me/upload/S20260128d933726d91a17/9b7817ea6903f.jpg?w=336	건강식품	2500
+18	더 착한 이거필름 수면케어 특허성분 NAC-01	53900	https://kindthemall.co.kr/shop_view/?idx=18	https://cdn-optimized.imweb.me/upload/S20260128d933726d91a17/9b7817ea6903f.jpg?w=336	건강식품	2500
